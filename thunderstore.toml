@@ -1,14 +1,14 @@
 ﻿[config]
-schemaVersion = "0.0.1"
+schemaVersion = "1.0.0"
 
 [general]
 repository = "https://thunderstore.io"
 
 [package]
-namespace = "YourThunderstoreTeam"
-name = "Template"
-description = "A template for Lethal Company plugins."
-websiteUrl = "https://github.com/Distractic/LethalCompanyTemplate"
+namespace = "LoganC"
+name = "ManeaterRemembers"
+description = "Makes the Maneater remember its parent and not kill them"
+websiteUrl = "https://github.com/An-Unnamed-Developer/ManeaterRemembers"
 containsNsfwContent = false
 
 [package.dependencies]
